@@ -1,0 +1,14 @@
+{
+  "welcome": "Willkommen",
+  "about": {
+    "label": "Über mich",
+    "subTitle": "Software Entwickler",
+    "personalDescription": "Ich bin ein 19-jähriger Entwickler aus Deutschland. Ich arbeite derzeit bei der { shopwareLink } in Schöppingen als Auszubildender."
+  },
+  "projects": {
+    "label": "Projekte"
+  },
+  "skills": {
+    "label": "Fähigkeiten"
+  }
+}

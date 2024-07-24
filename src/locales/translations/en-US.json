@@ -1,0 +1,14 @@
+{
+  "welcome": "Welcome",
+  "about": {
+    "label": "About me",
+    "subTitle": "Software Engineer",
+    "personalDescription": "I am a 19-year-old Developer from Germany. I am currently working at { shopwareLink } Schöppingen as a Trainee."
+  },
+  "projects": {
+    "label": "Projects"
+  },
+  "skills": {
+    "label": "Skills"
+  }
+}

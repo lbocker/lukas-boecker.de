@@ -1,0 +1,14 @@
+{
+  "welcome": "Bem-vindo",
+  "about": {
+    "label": "Sobre mim",
+    "subTitle": "",
+    "personalDescription": "Eu sou um desenvolvedor de 19 anos da Alemanha. Atualmente estou trabalhando na { shopwareLink } Schöppingen como estagiário."
+  },
+  "projects": {
+    "label": "Projetos"
+  },
+  "skills": {
+    "label": "Habilidades"
+  }
+}
